@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6f970139623c21a98aef5d96",
+  "owner": "fmkpps",
+  "repo": "page-1dca5a594a4df5b1755c5261",
+  "title": "鱼港(FishPort)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1dca5a594a4df5b1755c5261",
+      "a": "鱼港(FishPort)",
+      "b": "稳定全球clash加速器",
+      "entity": "鱼港(FishPort)",
+      "brand": "鱼港(FishPort)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "68cc8bc934430d79ff572ba9188d9b40b6bf02d35a8ca9199918347cb15a6ea1",
+      "content": {
+        "primary_entity": "鱼港(FishPort)",
+        "keyword1": "鱼港(FishPort)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端，电脑、手机与路由器都有对应方案。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，按文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始使用鱼港加速器",
+          "AI_DESCRIPTION": "，鱼港(FishPort)提供基础版、旗舰版与团队版三档订阅，月付与年付均可选。基础版每月100GB流量、支持3台设备；旗舰版每月300GB流量、支持5台设备，并有IPLC专线游戏加速优化；团队版每月1000GB流量、支持20台设备并支持企业定制路由。按设备选择对应客户端，在客户端内导入订阅链接即可使用，节点池与流媒体解锁范围随套餐档位变化。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备数量到订阅周期，三点帮你快速定位。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版适合单人轻量使用，旗舰版适合多设备与流媒体，团队版面向多人与企业路由。",
+          "AI_FEATURE_TITLE_1": "按需求选档位",
+          "AI_FEATURE_TEXT_2": "基础版3台、旗舰版5台、团队版20台，按家中或团队常用设备数匹配。",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，基础版年付150元、旗舰版年付350元、团队版年付850元。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "选服务、看适配、配订阅，三步完成套餐接入。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "鱼港(FishPort)面向需要稳定全球接入的用户，提供三档套餐与多客户端支持。基础版满足日常浏览，旗舰版覆盖流媒体与游戏加速，团队版面向多人协作与企业路由需求，按年付可降低月均成本。",
+          "AI_HERO_SUBTITLE": "多档套餐稳定接入全球",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC游戏加速",
+          "AI_HIGHLIGHT_3": "年付方案降低月均成本",
+          "AI_PLANS_INTRO": "三档套餐按月付与年付对比，流量、设备数与节点权益逐级提升。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据流量、设备数与使用场景，在基础版、旗舰版、团队版中选择一档。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与节点类型，确认电脑、手机或路由器是否在列。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "在对应客户端内按文档导入订阅链接，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_3": "依客户端文档配置",
+          "AI_VISUAL_TITLE": "鱼港加速器套餐选择",
+          "AI_FAQ_ANSWER_1": "基础版每月15元，适合3台设备以内、流量需求100GB左右的用户；旗舰版每月35元，支持5台设备，提供IPLC专线与全节点流媒体解锁。",
+          "AI_FAQ_ANSWER_2": "基础版与旗舰版分别支持3台和5台设备同时在线，团队版支持20台设备，适合小型工作室或多终端家庭使用。",
+          "AI_FAQ_ANSWER_3": "按年付更划算，基础版150元每年，旗舰版350元每年，团队版850元每年，相当于节省两个月费用。",
+          "AI_FAQ_ANSWER_4": "将订阅链接导入对应客户端即可，Windows常用Clash Verge，macOS可用ClashX，Android与iOS有各自推荐的客户端，具体参考配置文档。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含IPLC专线，针对游戏加速优化，同时支持全节点原生流媒体解锁，适合对速度与解锁能力有较高要求的场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "鱼港三档套餐分别适合什么场景？",
+          "AI_FAQ_QUESTION_2": "每档套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "按年付和按月付价格相差多少？",
+          "AI_FAQ_QUESTION_4": "不同设备怎么导入订阅并使用？",
+          "AI_FAQ_QUESTION_5": "IPLC专线和普通线路有什么区别？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yms72.cn",
+    "host": "yms72.cn"
+  },
+  "file_hashes": {
+    "index.html": "a7323b9b19bca0f86f04007d52bb16b5ee3b8cf9ad2fae9afb1e79c4297f0fc1",
+    "sitemap.xml": "4d4f0dfb3636c0e24a1e2d15d79d0397c8714ac5cc1082cd7a7f2a5fee9e5a5c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5b9f845d24954b0bd640ff7f82a71a8759ef0b5bdc937c7354ffcf47e64338e8",
+    "robots.txt": "01208daab46d716e0187c4980ef536d699ef299e5a029aa2323a90273c671922",
+    "2f6c8fa30b0dc0b8054ebbd112bd7be3.txt": "3ca1fd731fc1cb7c6ec094a850bc09820f6309cf4225ce93cd8c544d2a32da11"
+  },
+  "revision": "bae804ea110fd666af94f75568a7318b071eae37aaf69868ae9ca4fac6e5d26b"
+}
